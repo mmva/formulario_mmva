@@ -1,0 +1,2 @@
+Mari Mar|Zaragoza|marimar.villarte@gmail.com|on|1234|cas,en,fr|fdsdfds|gato|Enviar consulta|
+Calderón|Teruel|N/A|on|5555|cas|Descripción|perro,gato,conejo,conejo|Enviar consulta|

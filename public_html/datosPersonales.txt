@@ -1,0 +1,5 @@
+﻿Mari Mar|Zaragoza|marimar.villarte@gmail.com|on|1234|cas,en,fr|fdsdfds|gato
+Calderón|Teruel|N/A|on|5555|cas|Descripción|perro,gato,conejo,conejo
+gfdsdfgfds|Zaragoza|correo|JAVA|1234|en|Datos personales|conejo,conejo
+Y bastante más||marimar.villarte@gmail.com|JAVA|9874|cas,en,fr|Ayyyyyyyyyy|gato
+Datos personales 1|Zaragoza|Otro correo|JAVA|999|Descripciones varias|perro,gato
